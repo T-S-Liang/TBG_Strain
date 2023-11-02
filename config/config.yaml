@@ -1,0 +1,11 @@
+MPI_threads: 8
+bot_x_strain: -0.003
+bot_y_strain: 0.003
+folder_path: /root/autodl-tmp/strain_TBG/./TBG_top_x_0.003_topy_-0.003_botx_-0.003_boty_0.003_zstrain_3_twist_0
+relaxed_path: /root/autodl-tmp/strain_TBG/./TBG_top_x_0.003_topy_-0.003_botx_-0.003_boty_0.003_zstrain_300_twist_0/zig_TBG_relaxed.atom
+sample_freq: 100
+sample_path: /root/autodl-tmp/strain_TBG/./TBG_top_x_0.003_topy_-0.003_botx_-0.003_boty_0.003_zstrain_3_twist_0/Strain.data
+top_x_strain: 0.003
+top_y_strain: -0.003
+twist_angle: 0
+z_strain: 3
